@@ -1,6 +1,6 @@
 <?php
 //	$n = mt_rand(100, 999);
-	//echo $n;
+
 	
 //	$m = abs(-10);
 //	echo $m;
